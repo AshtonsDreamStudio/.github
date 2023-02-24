@@ -10,6 +10,8 @@ I will be uploading all the source code of the games made to this github org
 
 Please don't be too harsh on me as I am just learning game development and I am very green when it comes to it.
 
+Also I have done some game development before but I want to start fresh and relearn it that should be easy for me as I am a fullstack developer and get a grasp on the basics of new languages and things of those sorts pretty easy.
+
 Ill update this readme more soon.
 
 ## Links
